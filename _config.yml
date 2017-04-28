@@ -91,3 +91,5 @@ theme_config:
   # Footer Copyright Line
   footer_copyright: " All right reserved <a href=\"http://www.skight.ca/\">Skight I-Tech Inc</a>"
 
+  fa_logo: fa-laptop fa-5x
+
