@@ -34,3 +34,11 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
+
+
+# Footer About Text
+footer_about: "This theme was developed by <a href=\"https://github.com/klugjo\">Jonathan Klughertz</a>. The source code is available on Github. Create Websites. Make Magic."
+
+# Footer Copyright Line
+footer_copyright: "@Untitled. All right reserved | Design & Hexo <a href=\"http://www.codeblocq.com/\">Jonathan Klughertz</a>"
+

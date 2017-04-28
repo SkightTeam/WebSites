@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Skight I-Tech Inc.
 subtitle:
 description:
-author: John Doe
+author: Hao Wang
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /skight/
+url: http://www.skight.ca
+root: /www.skight.ca/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -73,3 +73,21 @@ deploy:
   repo: https://github.com/SkightTeam/www.skight.ca.git
   branch: master
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+
+theme_config:
+  twitter_url:
+  facebook_url:
+  instagram_url:
+  dribble_url:
+  github_url: https://github.com/SkightTeam
+  googleplus_url:
+  behance_url:
+  fivehundredpx_url:
+  email_url: haowang@skight.ca
+  rss_url: \#
+  # Footer About Text
+  footer_about: "Skight I-Tech Inc. is Canada based software solution provider."
+
+  # Footer Copyright Line
+  footer_copyright: " All right reserved <a href=\"http://www.skight.ca/\">Skight I-Tech Inc</a>"
+
