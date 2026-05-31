@@ -2,7 +2,7 @@
   "name": "skight-itech-portal",
   "version": "1.0.0",
   "private": true,
-  "description": "Professional portal site for Hao Wang / Skight I-Tech Inc.",
+  "description": "Professional portal site for Isaac Wang / Skight I-Tech Inc.",
   "scripts": {
     "build": "node scripts/build-static.js",
     "serve": "npx http-server dist -p 4000",

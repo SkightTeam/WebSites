@@ -1,6 +1,6 @@
 # Skight I-Tech Inc.
 
-Professional portal site for Hao Wang / Skight I-Tech Inc.
+Professional portal site for Isaac Wang / Skight I-Tech Inc.
 
 The site presents modern software development, workflow automation, Microsoft 365 management, AI knowledge workflows, and recent project work.
 
